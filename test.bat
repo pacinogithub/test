@@ -1,1 +1,1 @@
-msg "%username%" I just got access to your shell
+msg * I just got access to your shell
